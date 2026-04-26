@@ -1,0 +1,16 @@
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\bin\Debug\net10.0\covid_config.json
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\bin\Debug\net10.0\TP_MODUL9_103022400044.exe
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\bin\Debug\net10.0\TP_MODUL9_103022400044.deps.json
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\bin\Debug\net10.0\TP_MODUL9_103022400044.runtimeconfig.json
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\bin\Debug\net10.0\TP_MODUL9_103022400044.dll
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\bin\Debug\net10.0\TP_MODUL9_103022400044.pdb
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\TP_MODUL9_103022400044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\TP_MODUL9_103022400044.AssemblyInfoInputs.cache
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\TP_MODUL9_103022400044.AssemblyInfo.cs
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\TP_MODUL9_103022400044.csproj.CoreCompileInputs.cache
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\TP_MODUL9_103022400044.sourcelink.json
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\TP_MODUL9_103022400044.dll
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\refint\TP_MODUL9_103022400044.dll
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\TP_MODUL9_103022400044.pdb
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\TP_MODUL9_103022400044.genruntimeconfig.cache
+C:\Users\Shidiq\Documents\KPL\TP_MODUL9_103022400044\obj\Debug\net10.0\ref\TP_MODUL9_103022400044.dll
